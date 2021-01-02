@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Slate Bluish",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(42, 44, 55)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(31, 34, 43)",
+      "tab_background_text": "rgb(215, 226, 239)",
+      "toolbar_field": "rgb(26, 26, 35)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(140, 180, 255)",
+      "popup": "rgb(26, 27, 33)",
+      "popup_text": "rgb(215, 226, 239)",
+      "button_background_hover": "rgb(31, 34, 43)",
+      "icons": "rgb(255, 255, 255)",
+      "tab_background_separator": "rgb(98, 98, 130)",
+      "tab_loading": "rgb(140, 180, 255)"
+    }
+  }
+}
